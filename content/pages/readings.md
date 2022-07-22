@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and additional
+  suggested readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ddaa246b-0966-8786-e862-fbd8e8212977
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbook

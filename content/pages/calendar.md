@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This calendar offers a comprehensive schedule of topics, lectures, assignments
+  and exams for the course. Corresponding files have been linked to the calendar whenever
+  available.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: c06faa70-ae99-81d7-f362-c11bc86eed94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
