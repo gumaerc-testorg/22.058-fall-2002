@@ -5,6 +5,7 @@ file: /courses/22-058-principles-of-medical-imaging-fall-2002/eefa338a114fb37550
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework 1
-

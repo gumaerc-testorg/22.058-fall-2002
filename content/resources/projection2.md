@@ -4,6 +4,7 @@ description: Projection 2
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/1b8ecd78f03aa3694f0b3635f84c3a58_Projection2.nb
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Projection2.nb
 uid: 1b8ecd78-f03a-a369-4f0b-3635f84c3a58
 ---
 Projection 2
-
