@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2002",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -59,6 +60,7 @@
     "Exams with Solutions",
     "Lecture Notes"
   ],
-  "site_uid": "21ce9a89-676d-4f30-9c2f-4105e981a1cc",
+  "site_uid": "0fd9e2d2-bcc9-45b4-9361-65783133d32d",
+  "short_id": "22.058-fall-2002",
   "title": "Course Metadata"
 }
