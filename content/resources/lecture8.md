@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 8, The Origins of X-Rays
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/4e087e1cdee45aa0e82d54c266652564_lecture8.pdf
+file_size: 1573806
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
