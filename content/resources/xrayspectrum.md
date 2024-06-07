@@ -2,6 +2,7 @@
 content_type: resource
 description: X-ray Spectrum
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/7b623d98165976c3bddeae9132fe2910_Xrayspectrum.nb
+file_size: 2194503
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

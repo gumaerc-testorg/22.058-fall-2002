@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 6, Types of Radiation Interactions
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/fd3fd35c903ec154ab87644f1d4e2ba6_lecture6.pdf
+file_size: 2080451
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

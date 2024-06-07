@@ -2,6 +2,7 @@
 content_type: resource
 description: Compton Scatter
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/2c2affa1147f32727a6a68cf5514834f_Compton_Scatter.nb
+file_size: 113684
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
