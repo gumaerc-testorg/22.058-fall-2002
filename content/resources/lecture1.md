@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 1, A Brief Introduction to Medical Imaging
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/f11b6a71410d09c30d42b0b260b21d7d_lecture1.pdf
+file_size: 1036264
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework 5
 file: /courses/22-058-principles-of-medical-imaging-fall-2002/f4633c2832c8b760222e2e1feef2b417_Homework5.pdf
+file_size: 70730
 file_type: application/pdf
 learning_resource_types:
 - Assignments
