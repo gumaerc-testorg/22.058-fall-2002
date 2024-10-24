@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework 3 Solution
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/40e8bfbe23479c17109c1a0dbf1dd632_Homework3Solution.pdf
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/40e8bfbe23479c17109c1a0dbf1dd632_Homework3Solution.pdf
 file_size: 155262
 file_type: application/pdf
 learning_resource_types:

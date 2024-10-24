@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework 4
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/6f329a49af0a6155905d83fc60b7883c_Homework4.pdf
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/6f329a49af0a6155905d83fc60b7883c_Homework4.pdf
 file_size: 72274
 file_type: application/pdf
 learning_resource_types:
