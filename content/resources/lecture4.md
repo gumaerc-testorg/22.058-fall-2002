@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 4, Convolution: Fourier Convolution'
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/c3ebb6cbc233c08afa645ecc7a91330c_lecture4.pdf
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/c3ebb6cbc233c08afa645ecc7a91330c_lecture4.pdf
 file_size: 905438
 file_type: application/pdf
 learning_resource_types:

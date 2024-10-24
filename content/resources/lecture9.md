@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 9, Equations
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/355e34257dd86a1683e3d5e6a198746d_lecture9.pdf
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/355e34257dd86a1683e3d5e6a198746d_lecture9.pdf
 file_size: 252361
 file_type: application/pdf
 learning_resource_types:
