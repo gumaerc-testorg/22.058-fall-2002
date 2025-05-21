@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scatter
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/b28d3c4f25ef6c6f99b4b5242fc2f93d_scatter.nb
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/b28d3c4f25ef6c6f99b4b5242fc2f93d_scatter.nb
 file_size: 1047777
 file_type: text/plain
 learning_resource_types: []

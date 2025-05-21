@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: X-ray Spectrum
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/7b623d98165976c3bddeae9132fe2910_Xrayspectrum.nb
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/7b623d98165976c3bddeae9132fe2910_Xrayspectrum.nb
 file_size: 2194503
 file_type: text/plain
 learning_resource_types: []
