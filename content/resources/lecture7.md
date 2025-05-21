@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 7, Planar X-ray Imaging
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/75a7b85c3359af848a03e46a4abd8b1e_lecture7.pdf
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/75a7b85c3359af848a03e46a4abd8b1e_lecture7.pdf
 file_size: 200847
 file_type: application/pdf
 learning_resource_types:

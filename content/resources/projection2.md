@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Projection 2
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/1b8ecd78f03aa3694f0b3635f84c3a58_Projection2.nb
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/1b8ecd78f03aa3694f0b3635f84c3a58_Projection2.nb
 file_size: 3839665
 file_type: text/plain
 learning_resource_types: []

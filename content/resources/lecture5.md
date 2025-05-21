@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 5, Sampling
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/96d6351a6896173a606197c21743a51e_lecture5.pdf
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/96d6351a6896173a606197c21743a51e_lecture5.pdf
 file_size: 1069897
 file_type: application/pdf
 learning_resource_types:

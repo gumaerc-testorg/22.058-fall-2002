@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 2, Linear Imaging Systems
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/bade2fbea6350b6805ea4bdf52c2b5d5_lecture2.pdf
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/bade2fbea6350b6805ea4bdf52c2b5d5_lecture2.pdf
 file_size: 1333104
 file_type: application/pdf
 learning_resource_types:

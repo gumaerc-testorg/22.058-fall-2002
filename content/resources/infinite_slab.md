@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Infinite Slab
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/66da500647196bb81c6daeae535d6334_infinite_slab.nb
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/66da500647196bb81c6daeae535d6334_infinite_slab.nb
 file_size: 424009
 file_type: text/plain
 learning_resource_types: []

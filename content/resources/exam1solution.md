@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam 1 Solution
-file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/49d9a62b1759fba4673c7c7f4c005bc4_exam1solution.pdf
+file: /courses/22-058-principles-of-medical-imaging-fall-2002/49d9a62b1759fba4673c7c7f4c005bc4_exam1solution.pdf
 file_size: 267379
 file_type: application/pdf
 learning_resource_types:
