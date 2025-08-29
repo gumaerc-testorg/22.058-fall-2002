@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Attenuation
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/6f4b7c6e0db72cb12c844b46be3c6f4c_Attenuation.nb
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/6f4b7c6e0db72cb12c844b46be3c6f4c_Attenuation.nb
 file_size: 229491
 file_type: text/plain
 learning_resource_types: []
