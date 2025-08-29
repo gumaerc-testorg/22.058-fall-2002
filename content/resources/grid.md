@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Grid
-file: /courses/22-058-principles-of-medical-imaging-fall-2002/8a5dd67737b783a5d79d752edc32d0bd_grid.nb
+file: /ol-ocw-studio-app/courses/22-058-principles-of-medical-imaging-fall-2002/8a5dd67737b783a5d79d752edc32d0bd_grid.nb
 file_size: 1691769
 file_type: text/plain
 learning_resource_types: []
